@@ -1,9 +1,9 @@
 {
-  "version": "3.0.0",
-  "downloadUrl": "https://github.com/huanmimaxmedia/veo3-releases/releases/download/v3.0.0/Veo3_v3.0.0.zip",
-  "releaseNotes": "Phien ban on dinh dau tien",
-  "releaseDate": "2025-11-26",
-  "minimumVersion": "2.0.0",
+  "version": "3.0.1",
+  "downloadUrl": "https://github.com/huanmimaxmedia/veo3-releases/releases/download/v3.0.1/Veo3_v3.0.1.zip",
+  "releaseNotes": "Phien ban update license",
+  "releaseDate": "2025-12-03",
+  "minimumVersion": "3.0.0",
   "changelog": [
     "Tinh nang tao video tu AI",
     "Giao dien nguoi dung dep mat",
