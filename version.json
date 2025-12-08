@@ -3,7 +3,7 @@
     "downloadUrl":  "https://github.com/YOUR_USERNAME/YOUR_REPO/releases/download/v3.1.3/Veo3_v3.1.3.zip",
     "releaseNotes":  "Cap nhat he thong license va auto-update",
     "releaseDate":  "2025-12-08",
-    "minimumVersion":  "3.0.0",
+    "minimumVersion":  "3.1.2",
     "changelog":  [
                       "Them he thong license 1 may 1 license",
                       "Them tinh nang auto-update",
