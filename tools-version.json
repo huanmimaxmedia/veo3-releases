@@ -1,0 +1,13 @@
+{
+  "tools": {
+    "chat": {
+      "version": "1.0.0",
+      "downloadUrl": ""
+    },
+    "video-timeline": {
+      "version": "1.0.0",
+      "downloadUrl": ""
+    }
+  },
+  "lastUpdated": "2025-12-11"
+}
