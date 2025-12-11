@@ -2,11 +2,11 @@
     "lastUpdated":  "2025-12-11",
     "tools":  {
                   "video-timeline":  {
-                                         "version":  "1.0.1",
+                                         "version":  "1.0.2",
                                          "downloadUrl":  "https://github.com/huanmimaxmedia/veo3-releases/releases/download/tools-v1.0.1/video-timeline-v1.0.1.zip"
                                      },
                   "chat":  {
-                               "version":  "1.0.1",
+                               "version":  "1.0.2",
                                "downloadUrl":  "https://github.com/huanmimaxmedia/veo3-releases/releases/download/tools-v1.0.1/chat-v1.0.1.zip"
                            }
               }
