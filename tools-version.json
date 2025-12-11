@@ -1,13 +1,13 @@
 {
-  "tools": {
-    "chat": {
-      "version": "1.0.0",
-      "downloadUrl": ""
-    },
-    "video-timeline": {
-      "version": "1.0.0",
-      "downloadUrl": ""
-    }
-  },
-  "lastUpdated": "2025-12-11"
+    "lastUpdated":  "2025-12-11",
+    "tools":  {
+                  "video-timeline":  {
+                                         "version":  "1.0.0",
+                                         "downloadUrl":  ""
+                                     },
+                  "chat":  {
+                               "version":  "1.0.1",
+                               "downloadUrl":  "https://github.com/huanmimaxmedia/veo3-releases/releases/download/tools-v1.0.1/chat-v1.0.1.zip"
+                           }
+              }
 }
